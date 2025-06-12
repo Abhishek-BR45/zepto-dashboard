@@ -1,1 +1,2 @@
-# zepto-dashboard
+Built a dynamic Power BI dashboard to analyze key performance metrics for Zepto, a quick commerce platform. The dashboard helps stakeholders quickly assess performance and make data-driven decisions for supply chain, marketing, and customer retention strategies. Tracked daily orders, revenue trends, and product-level performance.Visualized inventory availability, total discount by category, and out of stock products. Enabled custom drilldowns by category. 
+Tools: Power BI, DAX, Power Query
